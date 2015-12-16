@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="En">
+<head><title>html 4</title>
+	
+</head>
+<body>
+	<h3>form for sending an email</h3>
+
+	<form>
+		<label>Name:</label>
+		<label>

@@ -1,0 +1,43 @@
+<!Doctype HTML>
+<html lang ="EN">
+<head> <meta charset="utf-8"> 
+<title> Nov 18-2 </title>
+</head>
+
+<body>
+	<?php
+	$names1 = array("salima", "Anotonio", "Krystal");
+	$names2 = array("Odelia", "Alejandro", "Aline", "Ben");
+
+	$a = count($names1);
+	$b = count($names2); 
+
+	//$a=10; 
+	//$b=7; 
+
+	 $a=5;
+	
+
+	 if ($a==5):?>
+	<h1>A equals 5</h1>
+	<?phpendif; ?>
+	
+
+	<!--<?php 
+   if ($a < $b) {
+
+		echo "a is bigger than b";
+	}
+	elseif ($a==$b){
+        echo "they are the same"; 
+	}
+else{
+
+	echo "oops, a is not greater than b";
+} 
+	?> -->
+
+
+
+</body>
+</html>
